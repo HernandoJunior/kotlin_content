@@ -1,6 +1,6 @@
 package anotacoes.variaveis
 
-class Numerais {
+class Numerals {
     fun intCategory(){
         fun longNumerais(){
             val bytes = 64

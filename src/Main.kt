@@ -1,4 +1,6 @@
+import anotacoes.colecoes.Arrays
+
 fun main() {
-    println("Hello World!")
-    println("Args")
+
+
 }
